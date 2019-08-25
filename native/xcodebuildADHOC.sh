@@ -11,7 +11,7 @@ Configuration="Release"
 #AdHoc版本的Bundle ID
 AdHocBundleID=""
 # ADHOC
-#证书名#描述文件:友邦软件
+#证书名#描述文件:个人或公司
 ADHOCCODE_SIGN_IDENTITY=""
 ADHOCPROVISIONING_PROFILE_NAME=""
 #加载ADHOC的plist文件
