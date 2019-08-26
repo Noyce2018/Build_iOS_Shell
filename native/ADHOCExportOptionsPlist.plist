@@ -4,7 +4,7 @@
 <dict>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>描述文件名</key>
+		<key>App的bundleId</key>
 		<string>描述文件的UUID</string>
 	</dict>
 	<key>method</key>
